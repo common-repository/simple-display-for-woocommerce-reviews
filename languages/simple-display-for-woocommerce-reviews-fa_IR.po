@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: simple-display-for-woocommerce-reviews\n"
+"POT-Creation-Date: 2018-11-21 01:07+0330\n"
+"PO-Revision-Date: 2018-11-21 01:10+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../../../wamp64/www/wordpress4/wp-content/plugins/simple-"
+"display-for-woocommerce-reviews\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: simple-display-for-woocommerce-reviews.php\n"
+
+#: simple-display-for-woocommerce-reviews.php:257
+#: simple-display-for-woocommerce-reviews.php:315
+msgid "Review for"
+msgstr "دیدگاه برای"
+
+#: simple-display-for-woocommerce-reviews.php:324
+msgid "Loading ..."
+msgstr "در حال بارگذاری ..."
+
+#: simple-display-for-woocommerce-reviews.php:324
+msgid "Load More"
+msgstr "موارد بیشتر"
